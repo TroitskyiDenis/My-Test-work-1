@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\MaryV\\OneDrive\\Рабочий стол\\Test work Troitskyi Denis\\Test work Troitskyi Denis.csproj": {}
+    "C:\\Users\\MaryV\\OneDrive\\Рабочий стол\\Test work Troitskyi Denis\\Test work Troitskyi Denis.csproj": {}
   },
   "projects": {
-    "c:\\Users\\MaryV\\OneDrive\\Рабочий стол\\Test work Troitskyi Denis\\Test work Troitskyi Denis.csproj": {
+    "C:\\Users\\MaryV\\OneDrive\\Рабочий стол\\Test work Troitskyi Denis\\Test work Troitskyi Denis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\MaryV\\OneDrive\\Рабочий стол\\Test work Troitskyi Denis\\Test work Troitskyi Denis.csproj",
+        "projectUniqueName": "C:\\Users\\MaryV\\OneDrive\\Рабочий стол\\Test work Troitskyi Denis\\Test work Troitskyi Denis.csproj",
         "projectName": "Test work Troitskyi Denis",
-        "projectPath": "c:\\Users\\MaryV\\OneDrive\\Рабочий стол\\Test work Troitskyi Denis\\Test work Troitskyi Denis.csproj",
+        "projectPath": "C:\\Users\\MaryV\\OneDrive\\Рабочий стол\\Test work Troitskyi Denis\\Test work Troitskyi Denis.csproj",
         "packagesPath": "C:\\Users\\MaryV\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\MaryV\\OneDrive\\Рабочий стол\\Test work Troitskyi Denis\\obj\\",
+        "outputPath": "C:\\Users\\MaryV\\OneDrive\\Рабочий стол\\Test work Troitskyi Denis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

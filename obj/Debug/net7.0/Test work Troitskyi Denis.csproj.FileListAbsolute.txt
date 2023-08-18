@@ -1,0 +1,15 @@
+C:\Users\MaryV\OneDrive\Рабочий стол\Test work Troitskyi Denis\bin\Debug\net7.0\Test work Troitskyi Denis.exe
+C:\Users\MaryV\OneDrive\Рабочий стол\Test work Troitskyi Denis\bin\Debug\net7.0\Test work Troitskyi Denis.deps.json
+C:\Users\MaryV\OneDrive\Рабочий стол\Test work Troitskyi Denis\bin\Debug\net7.0\Test work Troitskyi Denis.runtimeconfig.json
+C:\Users\MaryV\OneDrive\Рабочий стол\Test work Troitskyi Denis\bin\Debug\net7.0\Test work Troitskyi Denis.dll
+C:\Users\MaryV\OneDrive\Рабочий стол\Test work Troitskyi Denis\bin\Debug\net7.0\Test work Troitskyi Denis.pdb
+C:\Users\MaryV\OneDrive\Рабочий стол\Test work Troitskyi Denis\obj\Debug\net7.0\Test work Troitskyi Denis.csproj.AssemblyReference.cache
+C:\Users\MaryV\OneDrive\Рабочий стол\Test work Troitskyi Denis\obj\Debug\net7.0\Test work Troitskyi Denis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaryV\OneDrive\Рабочий стол\Test work Troitskyi Denis\obj\Debug\net7.0\Test work Troitskyi Denis.AssemblyInfoInputs.cache
+C:\Users\MaryV\OneDrive\Рабочий стол\Test work Troitskyi Denis\obj\Debug\net7.0\Test work Troitskyi Denis.AssemblyInfo.cs
+C:\Users\MaryV\OneDrive\Рабочий стол\Test work Troitskyi Denis\obj\Debug\net7.0\Test work Troitskyi Denis.csproj.CoreCompileInputs.cache
+C:\Users\MaryV\OneDrive\Рабочий стол\Test work Troitskyi Denis\obj\Debug\net7.0\Test work Troitskyi Denis.dll
+C:\Users\MaryV\OneDrive\Рабочий стол\Test work Troitskyi Denis\obj\Debug\net7.0\refint\Test work Troitskyi Denis.dll
+C:\Users\MaryV\OneDrive\Рабочий стол\Test work Troitskyi Denis\obj\Debug\net7.0\Test work Troitskyi Denis.pdb
+C:\Users\MaryV\OneDrive\Рабочий стол\Test work Troitskyi Denis\obj\Debug\net7.0\Test work Troitskyi Denis.genruntimeconfig.cache
+C:\Users\MaryV\OneDrive\Рабочий стол\Test work Troitskyi Denis\obj\Debug\net7.0\ref\Test work Troitskyi Denis.dll
